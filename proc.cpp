@@ -61,7 +61,7 @@ Some of the code in this file is based on code from the Glibc manual.
 #include "sanity.h"
 #include "env.h"
 #include "parser.h"
-#include "signal.h"
+#include "fish_signal.h"
 #include "event.h"
 
 #include "output.h"

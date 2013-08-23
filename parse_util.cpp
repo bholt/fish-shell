@@ -36,7 +36,7 @@
 #include "intern.h"
 #include "exec.h"
 #include "env.h"
-#include "signal.h"
+#include "fish_signal.h"
 #include "wildcard.h"
 
 /**

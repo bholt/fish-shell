@@ -4,7 +4,7 @@
 */
 
 #include <fcntl.h>
-#include "signal.h"
+#include "fish_signal.h"
 #include "postfork.h"
 #include "iothread.h"
 #include "exec.h"

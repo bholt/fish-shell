@@ -24,7 +24,7 @@
 #include "parser.h"
 #include "common.h"
 #include "event.h"
-#include "signal.h"
+#include "fish_signal.h"
 
 
 /**

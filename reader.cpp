@@ -92,7 +92,7 @@ commence.
 #include "input.h"
 #include "function.h"
 #include "output.h"
-#include "signal.h"
+#include "fish_signal.h"
 #include "screen.h"
 #include "iothread.h"
 #include "intern.h"

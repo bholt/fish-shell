@@ -58,7 +58,7 @@
 #include "highlight.h"
 #include "iothread.h"
 #include "postfork.h"
-#include "signal.h"
+#include "fish_signal.h"
 #include "highlight.h"
 #include "parse_util.h"
 

@@ -24,7 +24,7 @@ The library for various signal related issues
 #include "util.h"
 
 #include "wutil.h"
-#include "signal.h"
+#include "fish_signal.h"
 #include "event.h"
 #include "reader.h"
 #include "proc.h"

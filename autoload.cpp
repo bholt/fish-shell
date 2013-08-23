@@ -7,7 +7,7 @@ The classes responsible for autoloading functions and completions.
 #include "autoload.h"
 #include "wutil.h"
 #include "common.h"
-#include "signal.h"
+#include "fish_signal.h"
 #include "env.h"
 #include "exec.h"
 #include <assert.h>

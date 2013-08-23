@@ -54,7 +54,7 @@
 #include "env.h"
 #include "expand.h"
 #include "event.h"
-#include "signal.h"
+#include "fish_signal.h"
 
 #include "output.h"
 #include "intern.h"

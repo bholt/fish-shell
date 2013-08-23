@@ -28,7 +28,7 @@
 #include "common.h"
 #include "intern.h"
 #include "path.h"
-#include "signal.h"
+#include "fish_signal.h"
 #include "autoload.h"
 #include "iothread.h"
 #include <map>

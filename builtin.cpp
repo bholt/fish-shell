@@ -56,7 +56,7 @@
 #include "input.h"
 #include "intern.h"
 #include "event.h"
-#include "signal.h"
+#include "fish_signal.h"
 #include "exec.h"
 #include "highlight.h"
 #include "parse_util.h"

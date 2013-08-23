@@ -42,7 +42,7 @@ The fish parser. Contains functions for parsing and evaluating code.
 #include "intern.h"
 #include "parse_util.h"
 #include "path.h"
-#include "signal.h"
+#include "fish_signal.h"
 #include "complete.h"
 
 /**

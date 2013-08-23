@@ -7,6 +7,8 @@
 
 #include "config.h"
 
+#include <signal.h>
+
 #include <stdlib.h>
 #include <stdio.h>
 #include <sys/types.h>
@@ -18,7 +20,6 @@
 #include <wchar.h>
 #include <string.h>
 #include <limits.h>
-#include <signal.h>
 #include <sys/wait.h>
 #include <assert.h>
 #include <dirent.h>
@@ -47,7 +48,7 @@
 #include "wildcard.h"
 #include "sanity.h"
 #include "expand.h"
-#include "signal.h"
+#include "fish_signal.h"
 
 #include "parse_util.h"
 

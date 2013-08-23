@@ -46,7 +46,7 @@ parameter expansion.
 #include "expand.h"
 #include "wildcard.h"
 #include "exec.h"
-#include "signal.h"
+#include "fish_signal.h"
 #include "tokenizer.h"
 #include "complete.h"
 
